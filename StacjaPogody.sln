@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StacjaPogody", "StacjaPogody.pyproj", "{9C86AAC2-089F-44BD-A105-3BC1A1CA99CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C86AAC2-089F-44BD-A105-3BC1A1CA99CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C86AAC2-089F-44BD-A105-3BC1A1CA99CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D87969E5-02AC-40AF-94E1-5A0BF74DA52D}
+	EndGlobalSection
+EndGlobal
